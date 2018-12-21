@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Examples/2D/01 - Basic/PathFollowing-WithSpline.unity
+  isLoaded: 1
+  isActive: 1
